@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Open Network Knowledge Base](README.md)
+* [Main](README.md)
 * [FAQ](faq/README.md)
   * [FAQ for chats](faq/faq-for-chats.md)
 * [Troubleshooting](troubleshooting/README.md)
