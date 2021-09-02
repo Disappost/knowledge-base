@@ -1,11 +1,8 @@
 # Table of contents
 
-* [The Open Network Knowledge Base](README.md)
-* [FAQ](faq/README.md)
-  * [FAQ for chats](faq/faq-for-chats.md)
-* [Troubleshooting](troubleshooting/README.md)
-  * [wallets](troubleshooting/wallets.md)
-* [HOWTO](howto/README.md)
-  * [mining](howto/mining.md)
-  * [validator](howto/validator.md)
+* [Основная страница](README.md)
+* [ЧаВо](chavo/README.md)
+  * [ЧаВо по чатам](chavo/chavo-po-chatam.md)
+* [Решение проблем](troubleshooting.md)
+* [HOWTO](howto.md)
 
