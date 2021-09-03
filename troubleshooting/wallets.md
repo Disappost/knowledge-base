@@ -1,4 +1,4 @@
-# wallets
+# Wallets
 
 You can download standard wallets from [https://ton.org/wallets](https://ton.org/wallets).
 
