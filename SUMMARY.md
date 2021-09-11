@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Заглавная страница](README.md)
-* [ЧаВо](chavo/README.md)
-  * [Общее](chavo/common.md)
+* [FAQ](faq/README.md)
+  * [Общее](faq/common.md)
 * [Решение проблем](troubleshooting/README.md)
   * [Кошельки](troubleshooting/koshelki.md)
 
