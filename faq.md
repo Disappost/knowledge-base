@@ -194,7 +194,13 @@ TON в своём дизайне имеет одну основную цепь (
 
 Одними из таких форм являются bounceable и non-bounceable (от англ. bounceable — подпрыгивающий).
 
-Bounceable: Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU Non-bounceable: Uf8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3R
+Пример одного и того же адреса записаного в bounceable и non-bounceable виде:
+
+Bounceable: Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU 
+
+Non-bounceable: Uf8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3R
+
+
 
 В блокчейне TON реализована защита от ошибочных транзакций. Например, если вы отправите монеты на несуществующий кошелек то они вернутся обратно за вычетом комиссии. \
 \
