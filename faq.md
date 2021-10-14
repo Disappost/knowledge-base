@@ -200,6 +200,8 @@ Bounceable: `Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU`
 
 Non-bounceable: `Uf8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3R`
 
+Стандартной формой считается _bounceable_
+
 В блокчейне TON реализована защита от ошибочных транзакций. 
 
 Смысл _bounceable_ и _non-bounceable_ форм адресов в том, что если с некоторых кошельков отправить транзакцию на не инициализированный адрес в _bounceable_ виде, то монеты вернутся назад с вычетом комиссии. Если с отправить транзакцию на не инициализированный адрес в _non-bounceable_ виде, то монеты должны успешно отправиться и не должны вернутся.
