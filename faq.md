@@ -210,7 +210,7 @@ Non-bounceable: `Uf8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3R`
 
 Все стандартные кошельки с [https://ton.org/wallets](https://ton.org/wallets) при отправке монет на не инициализированные адреса будут отправлять монеты как на _bounceable_ так и на _non-bounceable_ адреса без возврата.
 
-Если есть необходимость быстро получить адрес в _bounceable_/_non-bounceable _это можно сделать тут [https://ton.org/address/](https://ton.org/address/)ю
+Если есть необходимость быстро получить адрес в _bounceable_/_non-bounceable _виде_ _это можно сделать тут [https://ton.org/address/](https://ton.org/address/).
 
 ## Валидаторы и майнинг
 
