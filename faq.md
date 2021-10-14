@@ -134,9 +134,11 @@ TON в своём дизайне имеет одну основную цепь (
 
 ### **Как подключиться к тестовой сети?**
 
-Для работы с тестовой сетью нужно использовать файл конфигурации тестовой сети, который можно найти на https://ton.org/docs.
+Для работы с тестовой сетью нужно использовать файл конфигурации тестовой сети, который можно найти на [https://ton.org/docs.](https://ton.org/docs)
 
-Для удовста также можно использовать API тестовой сети ([https://testnet.toncenter.com/api/v2](https://testnet.toncenter.com/api/v2/)) и эксплорер ([https://testnet.ton.sh](https://testnet.ton.sh)).
+[https://tonwallet.me/?testnet=true](https://tonwallet.me/?testnet=true) 
+
+Для удобства также можно использовать API тестовой сети ([https://testnet.toncenter.com/api/v2](https://testnet.toncenter.com/api/v2/)) и эксплорер ([https://testnet.ton.sh](https://testnet.ton.sh)).
 
 {% hint style="info" %}
 Получить тестовые монеты можно с помощью [@testgiver_ton_bot](https://t.me/testgiver_ton_bot).
