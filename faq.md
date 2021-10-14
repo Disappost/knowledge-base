@@ -136,13 +136,11 @@ TON в своём дизайне имеет одну основную цепь (
 
 Для работы с тестовой сетью нужно использовать файл конфигурации тестовой сети, который можно найти на [https://ton.org/docs.](https://ton.org/docs)
 
-[https://tonwallet.me/?testnet=true](https://tonwallet.me/?testnet=true) 
+[https://tonwallet.me/?testnet=true](https://tonwallet.me/?testnet=true) — данный веб-кошелек уже настроен для работы в тестовой сети.
 
-Для удобства также можно использовать API тестовой сети ([https://testnet.toncenter.com/api/v2](https://testnet.toncenter.com/api/v2/)) и эксплорер ([https://testnet.ton.sh](https://testnet.ton.sh)).
+Для удобства также можно использовать API тестовой сети ([https://testnet.toncenter.com/api/v2](https://testnet.toncenter.com/api/v2/)) и эксплорер тестовой сети ([https://testnet.ton.sh](https://testnet.ton.sh)).
 
-{% hint style="info" %}
 Получить тестовые монеты можно с помощью [@testgiver_ton_bot](https://t.me/testgiver_ton_bot).
-{% endhint %}
 
 ## Кошельки и адреса
 
