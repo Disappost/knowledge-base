@@ -200,7 +200,7 @@ Bounceable: `Ef8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAU`
 
 Non-bounceable: `Uf8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3R`
 
-Стандартной формой считается _bounceable_
+Стандартной формой считается _bounceable._
 
 В блокчейне TON реализована защита от ошибочных транзакций. 
 
@@ -209,6 +209,8 @@ Non-bounceable: `Uf8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG3R`
 Таким образом будут работать только некоторые кошельки. 
 
 Все стандартные кошельки с [https://ton.org/wallets](https://ton.org/wallets) при отправке монет на не инициализированные адреса будут отправлять монеты как на _bounceable_ так и на _non-bounceable_ адреса без возврата.
+
+Если есть необходимость бысто получить адрес в _bounceable_ и _non-bounceable_
 
 ## Валидаторы и майнинг
 
