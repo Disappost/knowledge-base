@@ -8,7 +8,7 @@ description: Здесь собраны ответы на основные воп
 
 #### [Чем блокчейн TON отличается от других блокчейнов?](faq.md#chem-blokchein-ton-otlichaetsya-ot-drugikh-blokcheinov-1)
 
-#### [Что такое TON Coin?](faq.md#chto-takoe-ton-coin-1)
+#### [Что такое Toncoin?](faq.md#chto-takoe-toncoin)
 
 #### [Как распределены TON Coin?](faq.md#kak-raspredeleny-ton-coin)
 
