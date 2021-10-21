@@ -10,7 +10,7 @@ description: Здесь собраны ответы на основные воп
 
 #### [Что такое Toncoin?](faq.md#chto-takoe-toncoin)
 
-#### [Как распределены TON Coin?](faq.md#kak-raspredeleny-ton-coin)
+#### [Как распределены Toncoins?](faq.md#kak-raspredeleny-ton-coin)
 
 #### [Что такое бридж?](faq.md#chto-takoe-bridzh)
 
