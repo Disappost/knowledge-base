@@ -9,7 +9,7 @@ These are convenient, tested and secure wallets.
 ### Basic
 
 * Make sure your wallet is downloaded from [https://ton.org/wallets](https://ton.org/wallets).
-* Make sure you have your **secret words** backed up. If not, click on "Back up wallet" and make a backup.
+* Make sure you have your **secret words** backed up. If not, click on "Export wallet" in settings and make a backup.
 * Make sure that config URL is "[https://ton.org/global-config-wallet.json](https://ton.org/global-config-wallet.json)" and Blockchain ID is "**mainnet"** in Settings of your wallet.
 * If your settings are different, enter the correct values.
 * If you cannot enter "**mainnet"** into Blockchain ID — update your wallet from [https://ton.org/wallets](https://ton.org/wallets).
