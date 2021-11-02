@@ -314,5 +314,3 @@ Collators или **коллаторы** подготавливают блоки 
 #### TON Community
 * Основной сайт: [toncommunity.org](https://toncommunity.org)
 * Монета: «[TON Token](https://coinmarketcap.com/currencies/tontoken/)» 
-
-666
