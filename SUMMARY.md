@@ -3,5 +3,5 @@
 * [Заглавная страница](README.md)
 * [FAQ](faq.md)
 * [Решение проблем](troubleshooting/README.md)
+  * [Биржи](troubleshooting/birzhi.md)
   * [Кошельки](troubleshooting/koshelki.md)
-
