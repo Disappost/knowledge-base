@@ -11,5 +11,4 @@
 * [Как использовать TON Bridge](kak-ispolzovat-ton-bridge.md)
 * [Майнинг в TON](maining-v-ton.md)
 * [Решение проблем](troubleshooting/README.md)
-  * [Биржи](troubleshooting/birzhi.md)
   * [Кошельки](troubleshooting/koshelki.md)
