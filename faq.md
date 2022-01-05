@@ -150,7 +150,7 @@ description: Здесь собраны ответы на основные воп
 
 Подробную информацию о монете вы можете найти на [официальном сайте ›](https://ton.org/coin)
 
-### Сколько всего выпущено монет Toncoin? <a href="ton-coin-amount" id="ton-coin-amount"></a>
+### Сколько всего выпущено монет Toncoin? <a href="#ton-coin-amount" id="ton-coin-amount"></a>
 
 Начальная эмиссия составляет 5 миллиардов монет. Параметрами сети установлена инфляция в 0,6% в год, это новые монеты выпускаемые сетью, которые идут валидаторам как награда за обеспечение работы сети.
 
@@ -305,10 +305,10 @@ Collators или **коллаторы** подготавливают блоки 
 * Основной сайт: [ton.org](https://ton.org) (ранее [toncoin.org](https://toncoin.org), [new-ton.io](https://new-ton.io) / [newton-blockchain.github.io](https://newton-blockchain.github.io))
 * Монета: «[Toncoin](https://coinmarketcap.com/currencies/toncoin/)»
 
-#### Free TON
+#### Everscale (ранее Free TON)
 
-* Основной сайт: [freeton.org](https://freeton.org)
-* Монета: «[TON Crystal](https://coinmarketcap.com/currencies/ton-crystal/)»
+* Основной сайт: [everscale.network](https://everscale.network) (ранее [freeton.org](https://freeton.org))
+* Монета: «[EVER](https://coinmarketcap.com/currencies/everscale/)» (ранее «TON Crystal»)
 
 #### TON Community
 
