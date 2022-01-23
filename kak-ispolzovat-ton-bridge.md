@@ -1,5 +1,7 @@
 # Как использовать TON Bridge
 
+Эта статья была сделана редакторами канала [@ruton](https://t.me/ruton). Другие их статьи можно посмотреть на ихнем сайте [tonblockchain.ru](https://tonblockchain.ru).
+
 ![](https://telegra.ph/file/4c257c8c5d52be8bafa49.png)
 
 [**TON Bridge**](http://ton.org/bridge) — это **мост** между блокчейнами, задача которого состоит в перемещении монет **Toncoin** из одной сети в другую.

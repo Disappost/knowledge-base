@@ -4,6 +4,8 @@ description: В этой статье описаны доступные спос
 
 # Как купить Toncoin
 
+Эта статья была сделана редакторами канала [@ruton](https://t.me/ruton). Другие их статьи можно посмотреть на ихнем сайте [tonblockchain.ru](https://tonblockchain.ru).
+
 ![](https://telegra.ph/file/847168acdd5a4a909dd03.png)
 
 •  [**Crypto Bot**](https://telegra.ph/Buy-TON-09-16#Crypto-Bot) · RUB, UAH\

@@ -1,8 +1,8 @@
 # Введение в TON
 
-![](https://telegra.ph/file/d0fc7dff7c80583b05fb7.png)
+Эта статья была сделана редакторами канала [@ruton](https://t.me/ruton). Другие их статьи можно посмотреть на ихнем сайте [tonblockchain.ru](https://tonblockchain.ru).
 
-Статья была подготовлена редакторами канала [@ruton](https://t.me/ruton).
+![](https://telegra.ph/file/d0fc7dff7c80583b05fb7.png)
 
 В данной статье мы постараемся кратко и доступно описать основы и принципы работы блокчейна **The Open Network**.
 

@@ -1,5 +1,7 @@
 # OKEx
 
+Эта статья была сделана редакторами канала [@ruton](https://t.me/ruton). Другие их статьи можно посмотреть на ихнем сайте [tonblockchain.ru](https://tonblockchain.ru).
+
 ## Пополнение баланса <a href="#popolnenie-balansa" id="popolnenie-balansa"></a>
 
 1\. Перейдите на страницу пополнения **TONCOIN** по следующей ссылке: [https://www.okex.com/ru/balance/recharge/toncoin?sub=1885](https://www.okex.com/ru/balance/recharge/toncoin?sub=1885)

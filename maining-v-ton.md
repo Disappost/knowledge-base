@@ -1,5 +1,7 @@
 # Майнинг в TON
 
+Эта статья была сделана редакторами канала [@ruton](https://t.me/ruton). Другие их статьи можно посмотреть на ихнем сайте [tonblockchain.ru](https://tonblockchain.ru).
+
 ![](https://telegra.ph/file/aae82e7733ebd05f5ac24.png)
 
 ⚡️ Подпишитесь на наш канал, в нём мы публикуем **инсайды** и **полезные статьи**, а также **раздаём** **Toncoin** среди подписчиков – [https://t.me/joinchat/QwjPmWttYZowYWZi](https://t.me/joinchat/QwjPmWttYZowYWZi)\

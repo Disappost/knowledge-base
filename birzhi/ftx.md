@@ -1,5 +1,7 @@
 # FTX
 
+Эта статья была сделана редакторами канала [@ruton](https://t.me/ruton). Другие их статьи можно посмотреть на ихнем сайте [tonblockchain.ru](https://tonblockchain.ru).
+
 ## Пополнение баланса <a href="#popolnenie-balansa" id="popolnenie-balansa"></a>
 
 1\. Перейдите на страницу [https://ftx.com/ru/wallet](https://ftx.com/ru/wallet) и найдите монету TONCOIN в списке, после чего нажмите кнопку **Deposit**.

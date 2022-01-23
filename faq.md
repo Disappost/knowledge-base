@@ -4,6 +4,8 @@ description: Здесь собраны ответы на основные воп
 
 # FAQ
 
+Эта статья была сделана редакторами канала [@ruton](https://t.me/ruton). Другие их статьи можно посмотреть на ихнем сайте [tonblockchain.ru](https://tonblockchain.ru).
+
 ## Популярные вопросы
 
 #### [Чем блокчейн TON отличается от других блокчейнов?](faq.md#chem-blokchein-ton-otlichaetsya-ot-drugikh-blokcheinov-1)
