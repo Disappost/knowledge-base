@@ -4,7 +4,7 @@ description: Здесь собраны ответы на основные воп
 
 # FAQ
 
-Эта статья была сделана редакторами канала [@ruton](https://t.me/ruton). Другие их статьи можно посмотреть на ихнем сайте [tonblockchain.ru](https://tonblockchain.ru).
+Эта статья была сделана редакторами канала [@ruton](https://t.me/ruton). Другие их статьи можно посмотреть на их сайте [tonblockchain.ru](https://tonblockchain.ru).
 
 ## Популярные вопросы
 
